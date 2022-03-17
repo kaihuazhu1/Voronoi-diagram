@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "bisector.h": "c",
+        "stage1.h": "c",
+        "stage3.h": "c"
+    }
+}
